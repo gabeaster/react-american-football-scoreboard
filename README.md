@@ -16,22 +16,22 @@ In this project, you build an app that diplays a scoreboard for an american foot
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository in your terminal
-- [ ] CD into the project base directory `cd american-football-scoreboard`
-- [ ] Download project dependencies by running `npm install`
-- [ ] Start up the app using `npm start`
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [DONE] Create a forked copy of this project.
+- [DONE] Add your team lead as collaborator on Github.
+- [DONE] Clone your OWN version of the repository in your terminal
+- [DONE] CD into the project base directory `cd american-football-scoreboard`
+- [DONE] Download project dependencies by running `npm install`
+- [DONE] Start up the app using `npm start`
+- [DONE] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [DONE] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [DONE] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete by merging the branch back into master.
-- [ ] Do your magic!
+- [DONE] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
+- [DONE] Add your team lead as a reviewer on the pull-request
+- [DONE] Your team lead will count the project as complete by merging the branch back into master.
+- [DONE] Do your magic!
 
 ## Minimum Viable Product
 
